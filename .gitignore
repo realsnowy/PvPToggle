@@ -1,0 +1,6 @@
+# IntelliJ
+/.idea
+/src/test
+
+# maven
+/target

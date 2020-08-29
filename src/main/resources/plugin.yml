@@ -1,0 +1,10 @@
+name: PvPToggle
+version: ${project.version}
+main: tf.justdisablevac.pvptoggle.main
+api-version: 1.13
+authors: [snowy]
+description: A plugin to toggle your PvP state (+ saves state to file)
+
+commands:
+  togglepvp:
+    description: togglepvp command
